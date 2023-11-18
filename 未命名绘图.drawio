@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T16:30:23.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UEQb8XN_WOmawrQaeXKd" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T14:23:39.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zKAJZxp4Fp0PHkmQjewK" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3270" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3618" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -60,7 +60,7 @@
             <mxPoint x="1617" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jGpVAOyJF6jb3Lt41kSN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RfYJl-rMJnOgF-dAcOaY-9" target="jGpVAOyJF6jb3Lt41kSN-2">
+        <mxCell id="jGpVAOyJF6jb3Lt41kSN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RfYJl-rMJnOgF-dAcOaY-9" target="jGpVAOyJF6jb3Lt41kSN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RfYJl-rMJnOgF-dAcOaY-9" value="4&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Arriving at the Destination&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -123,17 +123,291 @@
         <mxCell id="RfYJl-rMJnOgF-dAcOaY-49" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;4.2&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;If needed, find a safe place&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="380" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jGpVAOyJF6jb3Lt41kSN-0" value="Plan0:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 1-3-4&lt;br style=&quot;font-size: 14px;&quot;&gt;if navigation is needed, do 2-3-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jGpVAOyJF6jb3Lt41kSN-0" value="Plan0:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 1-3-4&lt;br style=&quot;font-size: 14px;&quot;&gt;if navigation is needed, do 2-3-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="120" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jGpVAOyJF6jb3Lt41kSN-1" value="Plan3:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 3.1-3.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if route needs to be adjusted, do 3.2-3.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jGpVAOyJF6jb3Lt41kSN-1" value="Plan3:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 3.1-3.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if route needs to be adjusted, do 3.2-3.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1190" y="280" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jGpVAOyJF6jb3Lt41kSN-2" value="4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;End the navigation.&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jGpVAOyJF6jb3Lt41kSN-2" value="4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;End the navigation.&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1710" y="380" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jGpVAOyJF6jb3Lt41kSN-4" value="Plan4:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 4.1-4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if someone need to find a save place , do 4.2-4.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jGpVAOyJF6jb3Lt41kSN-4" value="Plan4:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 4.1-4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if someone need to find a save place , do 4.2-4.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1690" y="280" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIIMPQbMX88gqnepNJIy-11" target="YIIMPQbMX88gqnepNJIy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-11" value="0&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Successfully reach a destination in rainy weather&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="650" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-12" value="1&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Preparation for Departure&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-13" value="2&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Using Mobile Phone for Navigation&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="855" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-14" value="3&lt;br style=&quot;font-size: 14px;&quot;&gt;Traveling&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-15" value="4&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Arriving at the Destination&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIIMPQbMX88gqnepNJIy-11" target="YIIMPQbMX88gqnepNJIy-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="720" as="sourcePoint" />
+            <mxPoint x="370" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIIMPQbMX88gqnepNJIy-11" target="YIIMPQbMX88gqnepNJIy-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="720" as="sourcePoint" />
+            <mxPoint x="530" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIIMPQbMX88gqnepNJIy-11" target="YIIMPQbMX88gqnepNJIy-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="720" as="sourcePoint" />
+            <mxPoint x="680" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-19" value="Plan0:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 1-3-4&lt;br style=&quot;font-size: 14px;&quot;&gt;if navigation is needed, do 2-3-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="730" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-23" target="YIIMPQbMX88gqnepNJIy-24" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-23" target="YIIMPQbMX88gqnepNJIy-26" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-23" target="YIIMPQbMX88gqnepNJIy-25" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-23" value="1&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Preparation for Departure&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-70" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-24" value="1.3. &lt;br style=&quot;font-size: 14px;&quot;&gt;Prepare suitable clothing and&amp;nbsp;umbrella&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;for rainy weather" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="775" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-25" value="1.2. &lt;br style=&quot;font-size: 14px;&quot;&gt;Check the weather forecast to confirm rainy conditions." style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-70" y="775" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-26" value="1.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Determine the destination." style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-210" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-32" target="YIIMPQbMX88gqnepNJIy-33" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-32" target="YIIMPQbMX88gqnepNJIy-34" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-32" target="YIIMPQbMX88gqnepNJIy-35" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-32" target="YIIMPQbMX88gqnepNJIy-36" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-32" target="YIIMPQbMX88gqnepNJIy-37" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-32" value="2&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Using Mobile Phone for Navigation&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-33" value="2.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Unlock the phone.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-34" value="2.2. &lt;br style=&quot;font-size: 14px;&quot;&gt;Open the navigation app.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-35" value="2.3. &lt;br style=&quot;font-size: 14px;&quot;&gt;Enter or select the destination.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-36" value="2.4. &lt;br style=&quot;font-size: 14px;&quot;&gt;Choose a route" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-37" value="2.5. &lt;br style=&quot;font-size: 14px;&quot;&gt;Start navigation.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-48" target="YIIMPQbMX88gqnepNJIy-49" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-48" target="YIIMPQbMX88gqnepNJIy-50" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-48" target="YIIMPQbMX88gqnepNJIy-51" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-48" value="3&lt;br style=&quot;font-size: 14px;&quot;&gt;Traveling&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1500" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-49" value="3.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Follow the mobile navigation instructions.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1390" y="990" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-50" value="3.2. &lt;br style=&quot;font-size: 14px;&quot;&gt;Adjust the route when necessary" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1530" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-51" value="3.3. &lt;br style=&quot;font-size: 14px;&quot;&gt;Pay attention to safety" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1670" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-52" value="Plan3:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 3.1-3.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if route needs to be adjusted, do 3.2-3.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1631" y="890" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-56" target="YIIMPQbMX88gqnepNJIy-57" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-56" target="YIIMPQbMX88gqnepNJIy-58" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2100" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-56" target="YIIMPQbMX88gqnepNJIy-59" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-56" value="4&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Arriving at the Destination&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2043" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-57" value="4.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Arrive at the destination as the navigation" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1890" y="1050" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-58" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;4.2&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;If needed, find a safe place&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2040" y="1050" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-59" value="4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;End the navigation.&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2193" y="1050" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-60" value="Plan4:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 4.1-4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if someone need to find a save place , do 4.2-4.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2173" y="950" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-62" target="YIIMPQbMX88gqnepNJIy-66" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-62" value="0&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Successfully reach a destination in rainy weather&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1294" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-66" target="YIIMPQbMX88gqnepNJIy-84" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-66" target="YIIMPQbMX88gqnepNJIy-86" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-66" target="YIIMPQbMX88gqnepNJIy-85" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-66" value="1&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Preparation for Departure&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-20" y="1494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-72" target="YIIMPQbMX88gqnepNJIy-87" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-72" target="YIIMPQbMX88gqnepNJIy-88" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-72" target="YIIMPQbMX88gqnepNJIy-89" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-72" target="YIIMPQbMX88gqnepNJIy-90" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-72" target="YIIMPQbMX88gqnepNJIy-91" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-72" value="2&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Using Mobile Phone for Navigation&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="545" y="1494" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-76" target="YIIMPQbMX88gqnepNJIy-92" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-76" target="YIIMPQbMX88gqnepNJIy-93" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-76" target="YIIMPQbMX88gqnepNJIy-94" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-76" value="3&lt;br style=&quot;font-size: 14px;&quot;&gt;Traveling&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1099" y="1494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-80" target="YIIMPQbMX88gqnepNJIy-95" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-80" target="YIIMPQbMX88gqnepNJIy-96" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1657" y="1634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-80" target="YIIMPQbMX88gqnepNJIy-99" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-80" value="4&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Arriving at the Destination&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;horizontal=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="1494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-62" target="YIIMPQbMX88gqnepNJIy-72" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1364" as="sourcePoint" />
+            <mxPoint x="370" y="1504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-62" target="YIIMPQbMX88gqnepNJIy-76" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1364" as="sourcePoint" />
+            <mxPoint x="530" y="1494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontSize=14;endArrow=none;endFill=0;" edge="1" source="YIIMPQbMX88gqnepNJIy-62" target="YIIMPQbMX88gqnepNJIy-80" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="1364" as="sourcePoint" />
+            <mxPoint x="680" y="1494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-84" value="1.3. &lt;br style=&quot;font-size: 14px;&quot;&gt;Prepare suitable clothing and&amp;nbsp;umbrella&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;for rainy weather" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="1634" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-85" value="1.2. &lt;br style=&quot;font-size: 14px;&quot;&gt;Check the weather forecast to confirm rainy conditions." style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-20" y="1634" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-86" value="1.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Determine the destination." style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-87" value="2.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Unlock the phone.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-88" value="2.2. &lt;br style=&quot;font-size: 14px;&quot;&gt;Open the navigation app.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-89" value="2.3. &lt;br style=&quot;font-size: 14px;&quot;&gt;Enter or select the destination.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-90" value="2.4. &lt;br style=&quot;font-size: 14px;&quot;&gt;Choose a route" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-91" value="2.5. &lt;br style=&quot;font-size: 14px;&quot;&gt;Start navigation.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-92" value="3.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Follow the mobile navigation instructions.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="989" y="1634" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-93" value="3.2. &lt;br style=&quot;font-size: 14px;&quot;&gt;Adjust the route when necessary" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1129" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-94" value="3.3. &lt;br style=&quot;font-size: 14px;&quot;&gt;Pay attention to safety" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1269" y="1634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-95" value="4.1. &lt;br style=&quot;font-size: 14px;&quot;&gt;Arrive at the destination as the navigation" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1447" y="1634" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-96" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;4.2&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;If needed, find a safe place&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1597" y="1634" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-97" value="Plan0:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 1-3-4&lt;br style=&quot;font-size: 14px;&quot;&gt;if navigation is needed, do 2-3-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1374" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-98" value="Plan3:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 3.1-3.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if route needs to be adjusted, do 3.2-3.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1230" y="1534" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-99" value="4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;End the navigation.&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1750" y="1634" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YIIMPQbMX88gqnepNJIy-100" value="Plan4:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;do 4.1-4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;if someone need to find a save place , do 4.2-4.3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1730" y="1534" width="330" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
