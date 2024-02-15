@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T21:18:55.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="sbAEhAL3Tu9HSCcDhfyO" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-15T21:50:58.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="h8TqE25g1-dvdNkLrbGy" version="23.0.1" type="github">
   <diagram name="第 1 页" id="nuNd8_V7MoBtT223j0he">
-    <mxGraphModel dx="6126" dy="5290" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="6458" dy="5587" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
           <mxGeometry x="121" y="370" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kGa_pBdqIZK06uq2p0jP-60" value="" style="group;fontSize=40;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-3210" y="-319.99999999999994" width="1022" height="463.17" as="geometry" />
+          <mxGeometry x="-3760" y="-329.99999999999994" width="1022" height="463.17" as="geometry" />
         </mxCell>
         <mxCell id="kGa_pBdqIZK06uq2p0jP-61" value="" style="group;fontSize=40;" vertex="1" connectable="0" parent="kGa_pBdqIZK06uq2p0jP-60">
           <mxGeometry x="-100" y="-10" width="1022" height="463.17" as="geometry" />
@@ -336,8 +336,11 @@
         <mxCell id="kGa_pBdqIZK06uq2p0jP-162" value="&lt;font style=&quot;&quot; color=&quot;#ff3333&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;A Chain is recursing on the abstract super class&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3420" y="-2260" width="770" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kGa_pBdqIZK06uq2p0jP-163" value="&lt;font style=&quot;font-size: 45px;&quot; color=&quot;#ff3333&quot;&gt;1. Uniformly process: leaf and&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="-1450" width="790" height="520" as="geometry" />
+        <mxCell id="kGa_pBdqIZK06uq2p0jP-163" value="&lt;font style=&quot;font-size: 45px;&quot; color=&quot;#ff3333&quot;&gt;1. Uniformly process: leaf and Composite fulfill the common condition, no need to know whether this is leaf or composite&lt;br&gt;2. suitble for tree structure&lt;br&gt;3. recursion supports dynamic adding new node&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="-1460" width="660" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kGa_pBdqIZK06uq2p0jP-165" value="&lt;font style=&quot;font-size: 45px;&quot; color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2630" y="-610" width="660" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
