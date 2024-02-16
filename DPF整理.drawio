@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T10:03:30.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dSWEIb9OrGsxhmy3A6c3" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T10:05:28.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="njM8BmEaIWbKfUiZb2n5" version="23.0.1" type="github">
   <diagram name="第 1 页" id="nuNd8_V7MoBtT223j0he">
-    <mxGraphModel dx="7620" dy="6632" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="7620" dy="6627" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,7 +343,7 @@
           <mxGeometry x="-2790" y="-610" width="820" height="400" as="geometry" />
         </mxCell>
         <mxCell id="kGa_pBdqIZK06uq2p0jP-166" value="&lt;font style=&quot;font-size: 45px;&quot; color=&quot;#ff3333&quot;&gt;1. 1 to many dependenvy relationship between objects, one changeds its state, all objects depending on it will be automatically notified and updated&lt;br&gt;2. low-coupling: the observed and observers are not bound directly&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-730" width="490" height="410" as="geometry" />
+          <mxGeometry x="350" y="-740" width="780" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
