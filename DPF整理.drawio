@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T17:44:10.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nnA2mRuIFs9X8QijMaq9" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T19:33:40.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5g1KXY8IzRvE4KI0Knog" version="23.0.1" type="github">
   <diagram name="第 1 页" id="nuNd8_V7MoBtT223j0he">
-    <mxGraphModel dx="11105" dy="9907" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="6126" dy="5336" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -358,6 +358,9 @@
         </mxCell>
         <mxCell id="kGa_pBdqIZK06uq2p0jP-177" value="&lt;font style=&quot;font-size: 29px;&quot; color=&quot;#ff3333&quot;&gt;1.Consistency: Product Family can be used together&lt;br&gt;2. Intercahngeability: change family without changing client code&lt;br&gt;3. product variant: make variant product family&lt;br&gt;n product hierechies papralell&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-980" y="-160" width="450" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="kGa_pBdqIZK06uq2p0jP-178" value="&lt;font style=&quot;font-size: 45px;&quot; color=&quot;#ff3333&quot;&gt;1.Produce complex product&lt;br&gt;2.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3800" y="-550" width="820" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
